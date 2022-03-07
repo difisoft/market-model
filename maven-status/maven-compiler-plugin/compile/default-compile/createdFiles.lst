@@ -8,8 +8,8 @@ com/difisoft/market/model/v2/db/SymbolDaily.class
 com/difisoft/market/model/v1/db/IPeriodIndex.class
 com/difisoft/market/model/v1/db/Stock.class
 com/difisoft/market/model/v1/db/SymbolName.class
+com/difisoft/market/model/v1/db/HighLowYearItem.class
 com/difisoft/market/model/v1/db/SymbolInfo.class
-com/difisoft/market/model/v1/db/IndexInfo$IndexInfoOverride.class
 com/difisoft/market/model/v1/db/CWQuote.class
 com/difisoft/market/model/v1/db/MonthlyIndex.class
 com/difisoft/market/model/constant/SessionType.class
@@ -34,11 +34,15 @@ com/difisoft/market/model/v1/db/SecuritiesInfo.class
 com/difisoft/market/model/v1/db/CWHistory$Id.class
 com/difisoft/market/model/v2/realtime/StockBidOfferData.class
 com/difisoft/market/model/v2/realtime/SymbolInfoUpdate$BidOfferItem.class
+com/difisoft/market/model/v1/db/StockDaily.class
 com/difisoft/market/model/v1/db/IndexQuoteBackup.class
 com/difisoft/market/model/v1/db/FuturesInfo.class
+com/difisoft/market/model/v1/db/CwDaily.class
 com/difisoft/market/model/v1/db/StockForeignerDaily.class
+com/difisoft/market/model/v1/realtime/BaseRealtime.class
 com/difisoft/market/model/v1/realtime/BidOfferData.class
 com/difisoft/market/model/v2/realtime/PriceItem.class
+com/difisoft/market/model/v1/db/BidOfferItem.class
 com/difisoft/market/model/v2/db/MappingMongo.class
 com/difisoft/market/model/v1/realtime/TickerMesgData.class
 com/difisoft/market/model/v1/db/CWInfo.class
@@ -52,7 +56,6 @@ com/difisoft/market/model/v2/realtime/IndexUpdateData.class
 com/difisoft/market/model/v1/db/FuturesQuote.class
 com/difisoft/market/model/v1/realtime/PriceItem.class
 com/difisoft/market/model/v1/db/IndexQuote.class
-com/difisoft/market/model/v1/db/SecuritiesInfo$BidOfferItem.class
 com/difisoft/market/model/v2/realtime/FuturesBidOfferData.class
 com/difisoft/market/model/v1/db/MonthlyCW.class
 com/difisoft/market/model/v1/db/FuturesQuoteBackup.class
@@ -73,6 +76,7 @@ com/difisoft/market/model/v1/db/EtfIndexDaily.class
 com/difisoft/market/model/v1/db/StockHistory.class
 com/difisoft/market/model/constant/Constants$1.class
 com/difisoft/market/model/v1/db/DailyStock.class
+com/difisoft/market/model/v1/db/FuturesDaily.class
 com/difisoft/market/model/v1/db/WeeklyCW.class
 com/difisoft/market/model/v1/db/IndexStockList.class
 com/difisoft/market/model/constant/IndexTypeEnum.class
@@ -92,6 +96,7 @@ com/difisoft/market/model/v2/realtime/IndexExtra.class
 com/difisoft/market/model/v1/db/IPeriodFutures.class
 com/difisoft/market/model/v1/db/CWInfo$CWInfoOverride.class
 com/difisoft/market/model/v1/db/Futures.class
+com/difisoft/market/model/v1/db/IndexDaily.class
 com/difisoft/market/model/v1/db/StockHistory$Id.class
 com/difisoft/market/model/v2/realtime/StockUpdateData.class
 com/difisoft/market/model/v1/db/IndexHistory.class
@@ -100,10 +105,10 @@ com/difisoft/market/model/v1/realtime/FuturesBidOfferData.class
 com/difisoft/market/model/v2/realtime/CWBidOfferData.class
 com/difisoft/market/model/v1/realtime/TickerNewsData.class
 com/difisoft/market/model/v1/db/IndexQuoteBackup$Session.class
-com/difisoft/market/model/v1/db/SecuritiesInfo$HighLowYearItem.class
 com/difisoft/market/model/v1/db/FuturesHistory$Id.class
 com/difisoft/market/model/constant/MarketStatusType.class
 com/difisoft/market/model/v1/db/CWQuoteBackup.class
+com/difisoft/market/model/v1/db/IndexSession.class
 com/difisoft/market/model/v1/db/WeeklyFutures.class
 com/difisoft/market/model/v1/realtime/StockUpdateData.class
 com/difisoft/market/model/v2/db/SymbolInfo.class
